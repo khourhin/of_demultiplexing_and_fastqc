@@ -106,9 +106,8 @@ Finally, for end-users, we also developed a Graphical interface called **Sequani
 
 
 
-![caption example.\label{fig:barcodebad}](barcodes_hiseq_bad_lane)
+![caption example.\label{fig:barcodebad}](barcodes)
 
-![caption example.\label{fig:barcodegood}](barcodes_hiseq_good.png)
 
 ![](summary_hiseq_bad_lane.png)
 
